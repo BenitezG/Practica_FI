@@ -1,3 +1,3 @@
 # Practica_FI
 
-## Soy un repositorio de Practica 😎🔥
+## Soy un repositorio de Práctica 😎🔥
